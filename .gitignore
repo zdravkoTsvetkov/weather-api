@@ -1,0 +1,6 @@
+# Virtual env and IDE files
+./venv/
+./.idea/
+
+./.env
+./weather_data.txt

@@ -1,0 +1,5 @@
+Weather data:
+Location: Plovdiv, Plovdiv, Bulgaria
+Temperatute: 37.1
+Condition: Partly cloudy
+Humidity: 22
